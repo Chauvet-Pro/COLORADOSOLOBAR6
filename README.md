@@ -42,12 +42,12 @@
 
 To update the firmware using a DMX cable connection, follow the instructions below:
 1. Power on the products.
-2. Connect the DMX out of the STRIKE Array 1 Driver with the latest firmware to the DMX in of the STRIKE Array 1 Driver that needs to be updated.
+2. Connect the DMX out of the COLORado Solo Bar 6 with the latest firmware to the DMX in of the COLORado Solo Bar 6 Driver that needs to be updated.
 3. Go to the **Update Firmware** main level of the receiving product.
 4. Select the **Fixture to Fixture** option.
 5. A warning ***"make sure no other signal, Network, or DMX controller is being sent! and press enter key to start update"*** will show on the display. Press **< ENTER >** to start the update.
    >* DO NOT turn off the power or disconnect the DMX cable during the process. The update can take several minutes to complete.
-   >* If the connected product is incorrect or has the incorrect sofware, the upgrade will fail, and the display will go back to the main interface. Repeat **steps 1-5** using a STRIKE Array 1 Driver with valid software.
+   >* If the connected product is incorrect or has the incorrect sofware, the upgrade will fail, and the display will go back to the main interface. Repeat **steps 1-5** using a COLORado Solo Bar 6 Driver with valid software.
 6. If the connected product is valid, the update will start. DO NOT turn off power or disconnect the DMX cable during the process. The update can take several minutes to complete.
 7. When the update is complete, the product will automatically reboot.
 8. Go to the **Information** level of the product's main menu and confirm the software update.
