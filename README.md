@@ -2,6 +2,8 @@
 
 ## Software Versions
 
+[V1.1.5 - COLORado Solo Bar 6](https://github.com/Chauvet-Pro/COLORADOSOLOBAR6/blob/8e196fcf0f4d5c2faf2eb6360a0cc571635ac605/V1.1.5.zip)
+
 [V1.1.4 - COLORado Solo Bar 6](https://github.com/Chauvet-Pro/COLORADOSOLOBAR6/blob/81a34e3bbcc4ef3d2219334db603463f5f5e52cd/Firmware/V1.1.4.zip)
 - Enhanced dimming performance
 - Resolved color shift artifact with Red Shift enabled
