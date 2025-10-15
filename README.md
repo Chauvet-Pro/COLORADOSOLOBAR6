@@ -3,6 +3,12 @@
 ## Software Versions
 
 [V1.1.5 - COLORado Solo Bar 6](https://github.com/Chauvet-Pro/COLORADOSOLOBAR6/blob/8e196fcf0f4d5c2faf2eb6360a0cc571635ac605/V1.1.5.zip)
+- Fixed bug of DMX address, UID, and hours reset caused by network upgrade failure 
+- Added FULL/CCT option for red shift
+- Artnet Universe range changed to: 0-32767
+- Revised the fixture display layout when no data signal is present
+- Added Balanced Full Output option to Calibration Menu
+- Removed DMX Start Address from Ethernet settings
 
 [V1.1.4 - COLORado Solo Bar 6](https://github.com/Chauvet-Pro/COLORADOSOLOBAR6/blob/81a34e3bbcc4ef3d2219334db603463f5f5e52cd/Firmware/V1.1.4.zip)
 - Enhanced dimming performance
